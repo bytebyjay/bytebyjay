@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Chamod, a Computer Science graduate based in Alberta, Canada.
+I'm Jay, a Computer Science graduate based in Alberta, Canada.
 
 I enjoy building practical software, solving problems, and working with databases. Most of my projects focus on web applications, database systems, and tools that improve efficiency.
 
