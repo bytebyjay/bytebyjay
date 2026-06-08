@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey there! 👋
 
 I'm Chamod, a Computer Science graduate based in Alberta, Canada.
